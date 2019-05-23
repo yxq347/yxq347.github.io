@@ -1,17 +1,17 @@
 # Site settings
-title: MQ Blog
-SEOTitle: 慕琴的博客 | MQ Blog
+title: YXQ Blog
+SEOTitle: 杨小琪的博客 | YXQ Blog
 header-img: img/post-bg-desk.jpg
 email: yxq347@163.com
 description: "Every failure is leading towards success."
-keyword: "MQ, MQ Blog, 慕琴的博客,mengqin"
+keyword: "YXQ, YXQ Blog, 杨小琪的博客,mengqin"
 url: "https://yxq347.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/qiubaiying/yxq347.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "千江有水千江月，万里无云万里天"
+sidebar-about-description: "浮生如梦，为欢几何！"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
